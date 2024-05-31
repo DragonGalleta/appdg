@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appdg</string>
+
+    <string name="app_description">Esta es mi primera app</string>
+    <string name="text_ingresar">Ingresar</string>
+
+</resources>
